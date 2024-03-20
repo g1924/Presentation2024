@@ -1,0 +1,13 @@
+{
+  "id" : "https://g1924.github.io/Presentation2024/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in g1924/Presentation2024 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://g1924.github.io/Presentation2024/manifests/manifest2.json",
+    "label" : "Tree near King's Cross, September 2023"
+  } ]
+}
