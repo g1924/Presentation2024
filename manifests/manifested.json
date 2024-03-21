@@ -1,0 +1,83 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested.json",
+  "@type" : "sc:Manifest",
+  "label" : "Tour of Edinburgh",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://323b9602-fb7c-419e-a059-1ce0e2606a2e",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4b97c580-f101-465e-851a-0b9678b4c5fe",
+      "@type" : "sc:Canvas",
+      "label" : "View of Edinburgh from Edinburgh Castle",
+      "height" : 4847,
+      "width" : 5876,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://403adb0b-67c8-4681-8882-f7187ae1a277",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~67714~100940/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~67714~100940",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "default", "color", "bitonal", "gray" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByH", "sizeByWh", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByPct", "regionByPct" ]
+            } ]
+          },
+          "height" : 4847,
+          "width" : 5876
+        },
+        "on" : "http://4b97c580-f101-465e-851a-0b9678b4c5fe"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2f6d6e67-dcfe-452e-8965-fcdc390e4d5b",
+      "@type" : "sc:Canvas",
+      "label" : "Edinburgh from near Craigmillar Castle",
+      "height" : 4440,
+      "width" : 5775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f17efe28-4c3d-4602-95a2-5ece7e8a4886",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~67576~100932/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~67576~100932",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "default", "color", "bitonal", "gray" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByH", "sizeByWh", "rotationBy90s", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByPct", "regionByPct" ]
+            } ]
+          },
+          "height" : 4440,
+          "width" : 5775
+        },
+        "on" : "http://2f6d6e67-dcfe-452e-8965-fcdc390e4d5b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
