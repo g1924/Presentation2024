@@ -3,6 +3,11 @@
   "@id" : "https://g1924.github.io/Presentation2024/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Tree near King's Cross, September 2023",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/164028724/aad98f83a5d342ae60b241cba8b72713/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Photographer",
     "value" : "Gabrielle Migdalska"
@@ -48,6 +53,11 @@
           "width" : 3024
         },
         "on" : "http://34fd0b64-ea07-49af-a76f-6ce79c1836fb"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://g1924.github.io/Presentation2024/annotations/a4141d5d3d810b1458a77a8935d7c2c6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
