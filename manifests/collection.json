@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested2.json",
     "label" : "Tour of Edinburgh"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json",
+    "label" : "Tour of Edinburgh"
   } ]
 }
