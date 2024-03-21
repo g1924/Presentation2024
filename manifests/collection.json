@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://g1924.github.io/Presentation2024/manifests/manifest2.json",
     "label" : "Tree near King's Cross, September 2023"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested.json",
+    "label" : "Tour of Edinburgh"
   } ]
 }
