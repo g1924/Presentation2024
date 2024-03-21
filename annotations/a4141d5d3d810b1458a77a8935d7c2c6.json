@@ -1,0 +1,84 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "bark",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>bark</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-21T10:42:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711017754410",
+    "dcterms:modified" : "2024-03-21T10:42:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2103,2526,849,1262"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2102.94118,2525.62353h424.52941v0h424.52941v631.21176v631.21176h-424.52941h-424.52941v-631.21176z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7181c6a4-b745-467c-8217-1aabfcbcd2f7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://34fd0b64-ea07-49af-a76f-6ce79c1836fb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Black walnut tree",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Black walnut tree</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "leaf",
+      "@type" : "oa:Tag",
+      "chars" : "leaf"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sky",
+      "@type" : "oa:Tag",
+      "chars" : "sky"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "tree",
+      "@type" : "oa:Tag",
+      "chars" : "tree"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-21T10:38:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711017485879",
+    "dcterms:modified" : "2024-03-21T10:40:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=273,244,2303,2140"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M273.22403,243.71283h1151.28043v0h1151.28043v1069.96278v1069.96278h-1151.28043h-1151.28043v-1069.96278z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4634791c-e789-428e-afa5-bde1ce2a9411\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"45.17647\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://34fd0b64-ea07-49af-a76f-6ce79c1836fb"
+    } ]
+  } ],
+  "@id" : "https://g1924.github.io/Presentation2024/annotations/a4141d5d3d810b1458a77a8935d7c2c6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
