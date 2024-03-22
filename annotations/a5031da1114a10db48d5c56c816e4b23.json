@@ -1,0 +1,211 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "North Berwick Law",
+      "@type" : "oa:Tag",
+      "chars" : "North Berwick Law"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "North Berwick Law\nHill in North Berwick, East Lothian\n<a href=\"https://www.eastlothian.gov.uk/info/210569/countryside_and_wildlife/12080/countryside_sites/6\" target=\"_blank\" rel=\"noopener\">Visitor information from East Lothian Council",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>North Berwick Law</strong></p>\n<p>Hill in North Berwick, East Lothian</p>\n<p><a href=\"https://www.eastlothian.gov.uk/info/210569/countryside_and_wildlife/12080/countryside_sites/6\" target=\"_blank\" rel=\"noopener\">Visitor information from East Lothian Council</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-03-22T09:16:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711098987536",
+    "dcterms:modified" : "2024-03-22T09:16:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3716,1642,184,117"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3716.41034,1642.27705h92.21679v0h92.21679v58.4328v58.4328h-92.21679h-92.21679v-58.4328z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d5d59393-f76f-4415-bac4-6776ef369b38\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b97c580-f101-465e-851a-0b9678b4c5fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Calton Hill\nA UNESCO World Heritage Site, Calton Hill is a hill situated on the eastern end of Princes Street and encompasses several neoclassical structures, including the Nelson and National Monuments.\n<img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~66235~100851/full/100,87/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" />\n<a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~66235~100851?qvq=q:calton%20hill&amp;mi=6&amp;trs=23\" target=\"_blank\" rel=\"noopener\">A lithograph of the National Monument by T. Picken after J. D. Harding, from the University of Edinburgh Library's collections",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Calton Hill</strong></p>\n<p>A UNESCO World Heritage Site, Calton Hill is a hill situated on the eastern end of Princes Street and encompasses several neoclassical structures, including the Nelson and National Monuments.</p>\n<p><img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~66235~100851/full/100,87/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" /></p>\n<p><a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~66235~100851?qvq=q:calton%20hill&amp;mi=6&amp;trs=23\" target=\"_blank\" rel=\"noopener\">A lithograph of the National Monument by T. Picken after J. D. Harding, from the University of Edinburgh Library's collections</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Calton Hill",
+      "@type" : "oa:Tag",
+      "chars" : "Calton Hill"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nelson Monument",
+      "@type" : "oa:Tag",
+      "chars" : "Nelson Monument"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "National Monument",
+      "@type" : "oa:Tag",
+      "chars" : "National Monument"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "City Observatory",
+      "@type" : "oa:Tag",
+      "chars" : "City Observatory"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dugald Stewart Monument",
+      "@type" : "oa:Tag",
+      "chars" : "Dugald Stewart Monument"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-22T09:17:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711099043431",
+    "dcterms:modified" : "2024-03-22T10:35:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2003,1419,1322,526"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2003.4209,1419.16191h661.19561v0h661.19561v262.89637v262.89637h-661.19561h-661.19561v-262.89637z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.06667,0.06667,0.7098],&quot;editable&quot;:true}\" id=\"rectangle_94978d48-feb8-43ec-89ce-1486f78201c1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#1111b5\" stroke-width=\"45.25677\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b97c580-f101-465e-851a-0b9678b4c5fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scott Monument\nVictorian gothic monument to Sir Walter Scott.\n<img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~58812~100399/full/70,100/0/default.jpg\" alt=\"Two bars of soap from the 20th century, one of which depicts the Scott Monument (from the University of Edinburgh Library's collections)\" width=\"70\" height=\"100\" />\n<a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~58812~100399?qvq=q:soap%20scott&amp;mi=0&amp;trs=1\" target=\"_blank\" rel=\"noopener\">Two bars of soap from the 20th century with images of the Scott Monument and Edinburgh Castle, from the University of Edinburgh Library's collections",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Scott Monument</strong></p>\n<p>Victorian gothic monument to Sir Walter Scott.</p>\n<p><img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~58812~100399/full/70,100/0/default.jpg\" alt=\"Two bars of soap from the 20th century, one of which depicts the Scott Monument (from the University of Edinburgh Library's collections)\" width=\"70\" height=\"100\" /></p>\n<p><a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~58812~100399?qvq=q:soap%20scott&amp;mi=0&amp;trs=1\" target=\"_blank\" rel=\"noopener\">Two bars of soap from the 20th century with images of the Scott Monument and Edinburgh Castle, from the University of Edinburgh Library's collections</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scott Monument",
+      "@type" : "oa:Tag",
+      "chars" : "Scott Monument"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sir Walter Scott",
+      "@type" : "oa:Tag",
+      "chars" : "Sir Walter Scott"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-22T09:10:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711098633381",
+    "dcterms:modified" : "2024-03-22T10:33:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=960,1392,603,1333"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M959.63616,1392.27547h301.67758v0h301.67758v666.54475v666.54475h-301.67758h-301.67758v-666.54475z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.06667,0.06667,0.7098],&quot;editable&quot;:true}\" id=\"rectangle_5b1caf34-a0a9-42ad-9a9d-04d5a7700ed2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#1111b5\" stroke-width=\"45.25677\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b97c580-f101-465e-851a-0b9678b4c5fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bass Rock\nIsland in the Firth of Forth&nbsp;\n<a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~69858~412148\" target=\"_blank\" rel=\"noopener\">An early lithograph of Bass Rock from the University of Edinburgh Library's collections, engraved by William Miller after Joseph Mallord William Turner, 1826\n<img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~69858~412148/full/100,87/0/default.jpg\" alt=\"Bass Rock\" width=\"50\" height=\"45\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Bass Rock</strong></p>\n<p>Island in the Firth of Forth&nbsp;</p>\n<p><a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~69858~412148\" target=\"_blank\" rel=\"noopener\">An early lithograph of Bass Rock from the University of Edinburgh Library's collections, engraved by William Miller after Joseph Mallord William Turner, 1826</a></p>\n<p><img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~69858~412148/full/100,87/0/default.jpg\" alt=\"Bass Rock\" width=\"50\" height=\"45\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bass Rock",
+      "@type" : "oa:Tag",
+      "chars" : "Bass Rock"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Firth of Forth",
+      "@type" : "oa:Tag",
+      "chars" : "Firth of Forth"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-21T16:12:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711037551516",
+    "dcterms:modified" : "2024-03-22T10:34:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3358,1663,95,75"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3357.50557,1663.3853h47.74341v0h47.74341v37.48266v37.48266h-47.74341h-47.74341v-37.48266z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_a726a219-c2ab-4c70-917b-c7afd42e8185\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"45.25677\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b97c580-f101-465e-851a-0b9678b4c5fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The National (National Galleries of Scotland)\nThe National Galleries of Scotland comprises of three Edinburgh galleries (the National, Modern and Portrait galleries). The National gallery houses Scottish and international art from the Renaissance to the 20th century.\n<a href=\"https://www.nationalgalleries.org/visit/scottish-national-gallery\" target=\"_blank\" rel=\"noopener\">Visitor information ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>The National (National Galleries of Scotland)</strong></p>\n<p>The National Galleries of Scotland comprises of three Edinburgh galleries (the National, Modern and Portrait galleries). The National gallery houses Scottish and international art from the Renaissance to the 20th century.</p>\n<p><a href=\"https://www.nationalgalleries.org/visit/scottish-national-gallery\" target=\"_blank\" rel=\"noopener\">Visitor information </a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-03-22T10:38:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711103926928",
+    "dcterms:modified" : "2024-03-22T12:02:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=307,2689,2636,473"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M306.5817,2688.51494h1317.97199v0h1317.97199v236.3352v236.3352h-1317.97199h-1317.97199v-236.3352z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_0846ab5a-d513-495f-8485-f1745e9e9eef\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"48.87731\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b97c580-f101-465e-851a-0b9678b4c5fe"
+    } ]
+  } ],
+  "@id" : "https://g1924.github.io/Presentation2024/annotations/a5031da1114a10db48d5c56c816e4b23.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
