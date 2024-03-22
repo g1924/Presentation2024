@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://g1924.github.io/Presentation2024/annotations/a4141d5d3d810b1458a77a8935d7c2c6.json" ],
+  "otherContent" : [ "https://g1924.github.io/Presentation2024/annotations/a4141d5d3d810b1458a77a8935d7c2c6.json", "https://g1924.github.io/Presentation2024/annotations/a5031da1114a10db48d5c56c816e4b23.json" ],
   "@id" : "https://g1924.github.io/Presentation2024/annotations/collection.json",
   "label" : "All annotations loaded in g1924/Presentation2024 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
