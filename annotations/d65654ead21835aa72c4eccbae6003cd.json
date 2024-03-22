@@ -1,0 +1,166 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Edinburgh Castle\nMedieval castle overlooking the city of Edinburgh from Castle Rock. The site includes the 12th century St Margaret's Chapel, and has been a royal residence through the centuries, having been <a href=\"https://www.historicenvironment.scot/visit-a-place/places/edinburgh-castle/history/\" target=\"_blank\" rel=\"noopener\">besieged more than any other castle in Europe.\n<a href=\"https://www.edinburghcastle.scot/\" target=\"_blank\" rel=\"noopener\">Visitor information for Edinburgh Castle\n<img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEart~1~1~4637~100429/full/120,87/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" />\n<img src=\"https://collections.ed.ac.uk/art/record/20143?highlight=edinburgh\" alt=\"\" /><a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEart~1~1~4637~100429:Edinburgh-Castle-from-the-south-wes?qvq=q:%22Edinburgh%20castle%22&amp;mi=9&amp;trs=148\" target=\"_blank\" rel=\"noopener\">A landscape painting by Patrick Nasmyth, depicting Edinburgh Castle in the background, from the University of Edinburgh's collections",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Edinburgh Castle</strong></p>\n<p>Medieval castle overlooking the city of Edinburgh from Castle Rock. The site includes the 12th century St Margaret's Chapel, and has been a royal residence through the centuries, having been <a href=\"https://www.historicenvironment.scot/visit-a-place/places/edinburgh-castle/history/\" target=\"_blank\" rel=\"noopener\">besieged more than any other castle in Europe.</a></p>\n<p><a href=\"https://www.edinburghcastle.scot/\" target=\"_blank\" rel=\"noopener\">Visitor information for Edinburgh Castle</a></p>\n<p><strong><img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEart~1~1~4637~100429/full/120,87/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" /></strong></p>\n<p><strong><img src=\"https://collections.ed.ac.uk/art/record/20143?highlight=edinburgh\" alt=\"\" /></strong><a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEart~1~1~4637~100429:Edinburgh-Castle-from-the-south-wes?qvq=q:%22Edinburgh%20castle%22&amp;mi=9&amp;trs=148\" target=\"_blank\" rel=\"noopener\">A landscape painting by Patrick Nasmyth, depicting Edinburgh Castle in the background, from the University of Edinburgh's collections</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Edinburgh Castle",
+      "@type" : "oa:Tag",
+      "chars" : "Edinburgh Castle"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "St Margaret's Chapel",
+      "@type" : "oa:Tag",
+      "chars" : "St Margaret's Chapel"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-22T10:50:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711104630941",
+    "dcterms:modified" : "2024-03-22T11:32:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1404,1393,569,233"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1404.2563,1393.42857h284.56303v0h284.56303v116.66387v116.66387h-284.56303h-284.56303v-116.66387z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true}\" id=\"rectangle_2822dbf4-1402-4aee-b77a-6f1c89cc5ec7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"22.38655\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2f6d6e67-dcfe-452e-8965-fcdc390e4d5b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Arthur's Seat\n<img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~46024~103399/full/230,177/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" />\n<a title=\"View of a snowy Arthur's Seat in January 2010\" href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEgal~4~4~46024~103399:Snow-at-Edinburgh-University-Librar?qvq=q:arthur%27s%20seat&amp;mi=117&amp;trs=119\" target=\"_blank\" rel=\"noopener\">View of a snowy Arthur's Seat in January 2010, from the University of Edinburgh Library's collections\nAn ancient volcano, now a popular tourist spot within the grounds of Holyrood Park with commanding views of Edinburgh and its surroundings. Not long before this lithograph was created, a group of boys discovered a small cave here where they found 17 miniature coffins, now on display at the National Museum of Scotland. You can read more about the mystery on the&nbsp;<a href=\"https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/mystery-of-the-miniature-coffins/\" target=\"_blank\" rel=\"noopener\">Museum's website.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Arthur's Seat</strong></p>\n<p><strong><img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEgal~4~4~46024~103399/full/230,177/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" /></strong></p>\n<p><em><a title=\"View of a snowy Arthur's Seat in January 2010\" href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEgal~4~4~46024~103399:Snow-at-Edinburgh-University-Librar?qvq=q:arthur%27s%20seat&amp;mi=117&amp;trs=119\" target=\"_blank\" rel=\"noopener\">View of a snowy Arthur's Seat in January 2010</a>, from the University of Edinburgh Library's collections</em></p>\n<p>An ancient volcano, now a popular tourist spot within the grounds of Holyrood Park with commanding views of Edinburgh and its surroundings. Not long before this lithograph was created, a group of boys discovered a small cave here where they found 17 miniature coffins, now on display at the National Museum of Scotland. You can read more about the mystery on the&nbsp;<a href=\"https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/mystery-of-the-miniature-coffins/\" target=\"_blank\" rel=\"noopener\">Museum's website.</a></p>\n<p>&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Arthur's Seat",
+      "@type" : "oa:Tag",
+      "chars" : "Arthur's Seat"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Holyrood Park",
+      "@type" : "oa:Tag",
+      "chars" : "Holyrood Park"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-21T16:41:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711039302759",
+    "dcterms:modified" : "2024-03-22T11:32:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3408,1137,1529,535"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3407.52276,1137.46903h764.38812v0h764.38812v267.62453v267.62453h-764.38812h-764.38812v-267.62453z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_c33c0f51-44ad-43e7-a939-eb6058af4b96\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3.73109\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2f6d6e67-dcfe-452e-8965-fcdc390e4d5b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Salisbury Crags\nA series of cliffs, part of nearby Arthur's Seat, within the grounds of Holyrood Park.&nbsp;\n<img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~62625~100634/full/110,87/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" />\n<a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~62625~100634\" target=\"_blank\" rel=\"noopener\">Engraving of Salisbury Crags from 1826 by J. Fife after W. Westall, from the University of Edinburgh's collections",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Salisbury Crags</strong></p>\n<p>A series of cliffs, part of nearby Arthur's Seat, within the grounds of Holyrood Park.&nbsp;</p>\n<p><strong><img src=\"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEwal~1~1~62625~100634/full/110,87/0/default.jpg\" alt=\"\" width=\"100\" height=\"87\" /></strong></p>\n<p><a href=\"https://images.is.ed.ac.uk/luna/servlet/detail/UoEwal~1~1~62625~100634\" target=\"_blank\" rel=\"noopener\">Engraving of Salisbury Crags from 1826 by J. Fife after W. Westall, from the University of Edinburgh's collections</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Salisbury Crags",
+      "@type" : "oa:Tag",
+      "chars" : "Salisbury Crags"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Holyrood Park",
+      "@type" : "oa:Tag",
+      "chars" : "Holyrood Park"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-22T11:06:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711105591859",
+    "dcterms:modified" : "2024-03-22T11:32:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2568,1431,711,495"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2568.35714,1430.7395h355.45378v0h355.45378v247.2521v247.2521h-355.45378h-355.45378v-247.2521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_0c74423a-d797-4237-8dab-6b5f5e7239a6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"22.38655\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2f6d6e67-dcfe-452e-8965-fcdc390e4d5b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Craigmillar Castle\nBuilt in the late 14th century with links to Mary, Queen of Scots. Read more about its history and plan your visit on <a href=\"https://www.historicenvironment.scot/visit-a-place/places/craigmillar-castle/history/\" target=\"_blank\" rel=\"noopener\">Historic Environment Scotland's website.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Craigmillar Castle</strong></p>\n<p>Built in the late 14th century with links to Mary, Queen of Scots. Read more about its history and plan your visit on <a href=\"https://www.historicenvironment.scot/visit-a-place/places/craigmillar-castle/history/\" target=\"_blank\" rel=\"noopener\">Historic Environment Scotland's website.</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Craigmillar Castle",
+      "@type" : "oa:Tag",
+      "chars" : "Craigmillar Castle"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/164028724",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-03-21T16:45:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1711039555020",
+    "dcterms:modified" : "2024-03-22T11:32:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://g1924.github.io/Presentation2024/manifests/manifested3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=705,1654,919,434"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M705.11049,1653.63903h459.70645v0h459.70645v217.21846v217.21846h-459.70645h-459.70645v-217.21846z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true}\" id=\"rectangle_95e1f9e1-de89-4365-8f7b-0f7dd8456976\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"22.38655\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2f6d6e67-dcfe-452e-8965-fcdc390e4d5b"
+    } ]
+  } ],
+  "@id" : "https://g1924.github.io/Presentation2024/annotations/d65654ead21835aa72c4eccbae6003cd.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
